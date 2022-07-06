@@ -1,6 +1,6 @@
 ## Movie Flex 
 
-## Author: Vishal Gami (N01452433), Vrushank Amin (N01452389), Yash Mehta (N01452496)
+## Authors: Vishal Gami , Vrushank Amin , Yash Mehta 
 
 ### Description:
 
@@ -34,7 +34,7 @@ Signin/Signup with Authentication
 
 ❖ Order Tracking for users:
 
-    ➢ User would be able to see their order history and past payments.
+    ➢ User would be able to see their order history.
 
 ❖ Movie Recommendation:
 
